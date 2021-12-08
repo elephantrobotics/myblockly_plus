@@ -1,0 +1,27 @@
+{
+  "name": {
+    "zh-cn": "Elephant MyCobot",
+    "en": "Elephant MyCobot"
+  },
+  "description": {
+    "zh-cn": "适用于大象机器人mycobot所有的机械臂的引脚操作",
+    "en": "Applicable to pin operation of all mycobot arms"
+  },
+  "author": "Elephant Robotics",
+  "email": "info@elephantrobotics.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "pinpong_huskylens",
+  "platform": ["win","mac","web","linux"],
+  "version": "0.0.1",
+  "asset": {
+	"python": {
+		"dir": "python/",
+		"main": "main.ts",
+		"dependencies": {
+        "pinpong": "3.6.5",
+        "pymycobot":"2.6.1"
+      }
+  }
+}
+}
