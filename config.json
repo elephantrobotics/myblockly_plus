@@ -4,7 +4,7 @@
     "en": "Elephant MyCobot"
   },
   "description": {
-    "zh-cn": "适用于大象机器人mycobot所有的机械臂的引脚操作",
+    "zh-cn": "使用mycobot系列机械臂，学习UR构型六轴协作机械臂基础知识。",
     "en": "Applicable to pin operation of all mycobot arms"
   },
   "author": "Elephant Robotics",
