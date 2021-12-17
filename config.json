@@ -1,7 +1,7 @@
 {
   "name": {
-    "zh-cn": "Elephant MyCobot",
-    "en": "Elephant MyCobot"
+    "zh-cn": "Elephant MyCobot RES32",
+    "en": "Elephant MyCobot RES32"
   },
   "description": {
     "zh-cn": "使用mycobot系列机械臂，学习UR构型六轴协作机械臂基础知识。",
@@ -11,7 +11,7 @@
   "email": "info@elephantrobotics.com",
   "license": "MIT",
   "isBoard": false,
-  "id": "pinpong_huskylens",
+  "id": "ElePhant Robotics mycobot m5",
   "platform": ["win","mac","web","linux"],
   "version": "0.0.1",
   "asset": {
