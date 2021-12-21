@@ -1,10 +1,10 @@
 {
   "name": {
-    "zh-cn": "Elephant MyCobot RES32",
-    "en": "Elephant MyCobot RES32"
+    "zh-cn": "大象协作机械臂-ESP32",
+    "en": "Elephant MyCobot ESP32"
   },
   "description": {
-    "zh-cn": "使用mycobot系列机械臂，学习UR构型六轴协作机械臂基础知识。",
+    "zh-cn": "使用大象协作myCobot机械臂ESP32版本，学习六轴协作机械臂基础知识。",
     "en": "Applicable to pin operation of all mycobot arms"
   },
   "author": "Elephant Robotics",

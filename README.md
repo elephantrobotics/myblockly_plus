@@ -1,23 +1,18 @@
-# ElephantMycobot机械臂Mind+用户库使用步骤
+## ElephantMycobot机械臂Mind+用户库使用步骤
 
 
-![](./python/_images/featured.png,"大象机器人mycobot机械臂用户库")
+#### 大象机器人官网：<https://www.elephantrobotics.com/>
+#### 大象机器人淘宝官网：<https://shop504055678.taobao.com/>
+#### mind+ windows版本下载地址：<http://download3.dfrobot.com.cn/Mind+_Win_V1.6.2_RC2.0.exe>
+#### mind+ macos版本下载地址：<http://download3.dfrobot.com.cn/Mind+_Mac_V1.7.1_RC1.0.dmg>
+#### mind+ linux版本下载地址：<https://mindplus.dfrobot.com.cn/linux>
+#### mind+使用教程地址：<https://mindplus.dfrobot.com.cn/ext-api>
 
-1. 进入mind+程序选择python模式，并点击模块
-!["步骤1"](./python/_images/steps1.png)
-
-2. 点击扩展
-!["步骤2"](./python/_images/steps2.png)
-
-3. 点击用户库
-!["步骤3"](./python/_images/steps3.png)
-
-4. 选择config.json文件所在文件路径
-!["步骤4"](./python/_images/steps4.png)
-
-5. 选择初始化模块初始引入相关接口以及初始化机器相关信息
-!["步骤5"](./python/_images/steps5.png) 
-
-* 备注:V0.0.1  基础功能完成
-* 当进入用户库提示需要下载依赖文件时选择是进行下载，否则会出现调用函数失败的警告，如果不小心跳过的话，重新进入一次程序按照流程引入用户库，选择下载依赖即可
-
+### mind+软件使用图文步骤
+1. 进入mind+选择python模式
+![](python/_images/speed1.png)
+2. 选择拓展
+![](python/_images/speed2.png)
+3. 选择用户库并在搜索框内输入关键字(ele,phant,mycobot,pi)获取大象机器人相关用户库,再点击返回回到操作界面
+![](python/_images/speed3.png)
+4. 在操作界面滑到最底部找到大象机器人用户库，并拖动积木块执行相关操作
